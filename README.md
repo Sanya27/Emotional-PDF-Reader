@@ -14,4 +14,4 @@ Pre-processing networks apply deep learning methodologies for feature extraction
 sound based on the melody scale. The pre-processing tasks include - text processing, extracting linguistic features(phenomes, duration, etc.) and 
 extracting vocoder features(fundamental frequency,  spectrogram,  etc.)  thatrepresent the corresponding speech signal.
 The vocoder uses these parameters and performs multiple complex conversions onthese  parameters  to  generate  audio  waveforms. 
-
+Thank youuu!!!!!!!!!!
